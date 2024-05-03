@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "email-addresses": "^5.0.0",
+    "filesize": "^10.1.1",
+    "lodash": "^4.17.21",
+    "mbox-reader": "^1.1.5"
+  }
+}
