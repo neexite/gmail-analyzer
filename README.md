@@ -2,7 +2,7 @@ gmail-analyzer
 ==================
 Boilerplate to analyze stored emails.
 
-`groupBySender.js` - sows the size of emails grouped by sender.
+`groupBySender.js` - shows the size of emails grouped by sender.
 
 Prepare
 ------------
